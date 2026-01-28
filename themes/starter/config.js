@@ -208,22 +208,22 @@ const CONFIG = {
   STARTER_TEAM_ITEMS: [
     {
       STARTER_TEAM_ITEM_AVATAR:
-        '/images/starter/team/chinamobile.webp',
+        '/images/starter/team/chinamobile.avif',
       STARTER_TEAM_ITEM_NICKNAME: '中国移动',
       STARTER_TEAM_ITEM_DESCRIPTION: '中国移动通信集团有限公司'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/chinaunicom.webp',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/chinaunicom.avif',
       STARTER_TEAM_ITEM_NICKNAME: '中国联通',
       STARTER_TEAM_ITEM_DESCRIPTION: '中国联合网络通信集团有限公司'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/chinatelecom.webp',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/chinatelecom.avif',
       STARTER_TEAM_ITEM_NICKNAME: '中国电信',
       STARTER_TEAM_ITEM_DESCRIPTION: '中国电信集团有限公司'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/chinabroadnet.webp',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/chinabroadnet.avif',
       STARTER_TEAM_ITEM_NICKNAME: '中国广电',
       STARTER_TEAM_ITEM_DESCRIPTION: '中国广电网络股份有限公司'
     }
