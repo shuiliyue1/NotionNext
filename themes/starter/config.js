@@ -337,8 +337,8 @@ const CONFIG = {
           URL: 'https://apps.apple.com/cn/app/172%E5%8F%B7%E5%8D%A1/id6471650035'
         },
         {
-          TITLE: '',
-          URL: ''
+          TITLE: '备用',
+          URL: 'https://software.shuiliyue.com/mobile/172haoka'
         }
       ]
     }
