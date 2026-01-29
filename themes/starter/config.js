@@ -300,45 +300,45 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '官方店铺', URL: 'https://172.lot-ml.com/ProductEn/Index/12325ca90b5d4df7' },
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          TITLE: '官方资料',
+          URL: 'https://www.yuque.com/u34429180/diq87k'
         },
         {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          TITLE: '',
+          URL: ''
         }
       ]
     },
     {
-      TITLE: '功能特性',
+      TITLE: '加入我们',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: '官方注册',
+          URL: 'https://haoka.lot-ml.com/plugregper.html?agentid=1261595'
         },
         {
-          TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          TITLE: '官方登录',
+          URL: 'https://haoka.lot-ml.com/login.html'
         },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: '', URL: '' }
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: '官方软件',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: '安卓',
+          URL: 'https://a.app.qq.com/o/simple.jsp?pkgname=com.canghai.haoka'
         },
         {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: '苹果',
+          URL: 'https://apps.apple.com/cn/app/172%E5%8F%B7%E5%8D%A1/id6471650035'
         },
         {
-          TITLE: '中国大陆使用Notion',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          TITLE: '',
+          URL: ''
         }
       ]
     }
