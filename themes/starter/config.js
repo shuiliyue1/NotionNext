@@ -326,7 +326,7 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: '官方软件',
+      TITLE: '应用下载',
       LINK_GROUP: [
         {
           TITLE: '安卓',
