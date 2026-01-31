@@ -209,22 +209,22 @@ const CONFIG = {
     {
       STARTER_TEAM_ITEM_AVATAR:
         '/images/starter/team/team-01.avif',
-      STARTER_TEAM_ITEM_NICKNAME: '移动',
+      STARTER_TEAM_ITEM_NICKNAME: '中国移动',
       STARTER_TEAM_ITEM_DESCRIPTION: '中国移动通信集团有限公司'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.avif',
-      STARTER_TEAM_ITEM_NICKNAME: '联通',
+      STARTER_TEAM_ITEM_NICKNAME: '中国联通',
       STARTER_TEAM_ITEM_DESCRIPTION: '中国联合网络通信集团有限公司'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.avif',
-      STARTER_TEAM_ITEM_NICKNAME: '电信',
+      STARTER_TEAM_ITEM_NICKNAME: '中国电信',
       STARTER_TEAM_ITEM_DESCRIPTION: '中国电信集团有限公司'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-04.avif',
-      STARTER_TEAM_ITEM_NICKNAME: '广电',
+      STARTER_TEAM_ITEM_NICKNAME: '中国广电',
       STARTER_TEAM_ITEM_DESCRIPTION: '中国广电网络股份有限公司'
     }
   ],
