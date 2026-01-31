@@ -300,7 +300,7 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '官方店铺', URL: 'https://h5.gantanhao.com/HVUh' },
+        { TITLE: '官方商城', URL: 'https://h5.gantanhao.com/HVUh' },
         {
           TITLE: '官方资料',
           URL: 'https://app.gantanhao.com/#/pages/index/productLibrary'
