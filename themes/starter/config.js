@@ -300,10 +300,10 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '官方商城', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '官方商城', URL: 'https://h5.vip12300.cn/index?k=SDdjN0gyZlI5cUU9' },
         {
           TITLE: '官方资料',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          URL: 'https://h5.vip12300.cn/article/goods'
         },
         {
           TITLE: '',
