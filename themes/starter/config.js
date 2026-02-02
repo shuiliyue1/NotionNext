@@ -124,7 +124,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '我们之前在其它平台推卡，佣金不高，结算率低，提现也慢。这边佣金提现当天到账，一分不差。佣金说实话，比之前推的高很多，而且在官网注册直接升一级，佣金更多。流量卡很齐全，用户需求都能覆盖。真的好，后悔没早点换平台。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kaduoduo/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '初创团队',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -133,7 +133,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '呜呜呜，经过两周的努力，终于能稳定推卡了，每天都赚几百。非常感谢客服的帮助┭┮﹏┭┮。从今之后，我也是卡商啦，( •̀ ω •́ )y',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kaduoduo/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '大学生',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -142,7 +142,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '佣金高，卡的种类也多。之前都是做几个项目，现在就做这个。上月靠这个多赚了1.3万，新人也能快速上手。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kaduoduo/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '自由职业者',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -151,7 +151,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '感谢提供这么好的平台哈哈 之前一直有在网上办流量卡 但不知道原来别人能赚佣金 所以为什么不自己注册后台自己办卡自己赚呢 如果你和我一样自己有做网站 可以当福利置顶在网站里 还能推卡给身边朋友也赚一笔 而且这个非常简单（btw 别的平台好难好复杂） 主要是每一个环节都清晰透明 新手非常友好哦',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kaduoduo/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '站长',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -160,7 +160,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '带娃空隙赚钱，就图时间自由+来钱快。这佣金是真猛，提了3800多当天就到。客服妹子态度巨好，没嫌我问题多',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kaduoduo/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '宝妈',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -168,7 +168,7 @@ const CONFIG = {
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '纯小白试水，就怕流程复杂。结果后台非常简单，我本身就有运营个人账号，推卡也不用经常盯。有次出问题，找客服10分钟就处理好！连我这种小白试水这个都能多赚5000+，服了。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kaduoduo/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '博主',
       STARTER_TESTIMONIALS_ITEM_URL: ''
