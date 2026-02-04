@@ -300,10 +300,10 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '官方商城', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '官方商城', URL: 'http://app.xiuyuetongxun.com/index?k=L3l3VmJiQ0hscGM9' },
         {
           TITLE: '官方资料',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          URL: 'https://app.xiuyuetongxun.com/article/goods'
         },
         {
           TITLE: '',
@@ -316,11 +316,11 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: '官方注册',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          URL: 'http://app.xiuyuetongxun.com/m/reg.php?code=RLBR8VVI'
         },
         {
           TITLE: '官方登录',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          URL: 'https://app.xiuyuetongxun.com/agent/login'
         },
         { TITLE: '', URL: '' }
       ]
@@ -330,11 +330,11 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: '安卓',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          URL: 'https://app2.xiuyuetongxun.com'
         },
         {
           TITLE: '苹果',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          URL: 'https://app2.xiuyuetongxun.com'
         },
         {
           TITLE: '备用',
