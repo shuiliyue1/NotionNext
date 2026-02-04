@@ -126,8 +126,8 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-taokazhushou/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: '初创团队'
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '初创团队',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -135,8 +135,8 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-taokazhushou/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: '大学生'
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '大学生',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
