@@ -15,8 +15,7 @@ const LayoutCategoryIndex = ({ posts, category, categories, siteInfo, ...props }
                 className="px-4 py-2 rounded-lg text-sm no-underline transition-all"
                 style={{
                   background: cat === category ? 'var(--p-text)' : 'var(--p-surface)',
-                  color: cat === category ? 'var(--p-bg)' : ' '#'} target="_blank" rel="noopener noreferrer">
-               var(--p-text2)',
+                  color: cat === category ? 'var(--p-bg)' : 'var(--p-text2)',
                   border: `1px solid ${cat === category ? 'var(--p-text)' : 'var(--p-border)'}`
                 }}>
                 {cat}
