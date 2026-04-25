@@ -300,7 +300,7 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '官方商城', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '官方商城', URL: 'https://ky.kyaowang.cn/s/2opgsLw9' },
         {
           TITLE: '',
           URL: ''
