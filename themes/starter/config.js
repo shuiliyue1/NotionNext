@@ -124,7 +124,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '我们之前在其它平台推卡，佣金不高，结算率低，提现也慢。这边佣金提现当天到账，一分不差。佣金说实话，比之前推的高很多，而且在官网注册直接升一级，佣金更多。流量卡很齐全，用户需求都能覆盖。真的好，后悔没早点换平台。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-haokayuzhou/avatar.avif',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-yikayun/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '初创团队',
       STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
