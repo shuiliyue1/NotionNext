@@ -127,7 +127,7 @@ const CONFIG = {
         'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-haokayuzhou/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '初创团队',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -145,7 +145,7 @@ const CONFIG = {
         'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-haokayuzhou/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '大学生',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -154,7 +154,7 @@ const CONFIG = {
         'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-haokayuzhou/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '自由职业者',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -163,7 +163,7 @@ const CONFIG = {
         'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-haokayuzhou/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '纯小白试水，就怕流程复杂。结果后台非常简单，我本身就有运营个人账号，推卡也不用经常盯。有次出问题，找客服10分钟就处理好！连我这种小白试水这个都能多赚5000+，服了。',
@@ -171,7 +171,7 @@ const CONFIG = {
         'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-haokayuzhou/avatar.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '博主',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.lucenczz.top/'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     }
   ],
 
