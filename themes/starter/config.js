@@ -338,7 +338,7 @@ const CONFIG = {
         },
         {
           TITLE: '备用',
-          URL: 'https://software.shuiliyue.com/mobile/haokayuzhou'
+          URL: 'https://software.shuiliyue.com/mobile/haokayuzhou1'
         }
       ]
     }
