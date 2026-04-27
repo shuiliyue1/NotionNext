@@ -126,7 +126,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kayelianmeng/avatar-01.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '夸克网盘',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿里巴巴集团',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿里巴巴集团控股有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
@@ -144,7 +144,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kayelianmeng/avatar-03.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '百度网盘',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '百度集团',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '百度集团股份有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
