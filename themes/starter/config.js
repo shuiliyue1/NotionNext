@@ -124,7 +124,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '网盘项目',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kayelianmeng/avatar-01.avif',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-rentuibang/avatar-01.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '夸克网盘',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿里巴巴集团控股有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -133,7 +133,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'CPA项目',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kayelianmeng/avatar-02.avif',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-rentuibang/avatar-02.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '小红书',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '行吟信息科技（上海）有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -142,7 +142,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '网盘项目',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kayelianmeng/avatar-03.avif',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-rentuibang/avatar-03.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '百度网盘',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '百度集团股份有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -151,7 +151,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'CPA项目',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kayelianmeng/avatar-04.avif',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-rentuibang/avatar-04.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '微博',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '微博股份有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -160,7 +160,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '网盘项目',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kayelianmeng/avatar-05.avif',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-rentuibang/avatar-05.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '迅雷网盘',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '迅雷集团',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -168,7 +168,7 @@ const CONFIG = {
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: 'CPA项目',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-kayelianmeng/avatar-06.avif',
+        'https://raw.githubusercontent.com/shuiliyue1/ImageHost/refs/heads/shuiliyue-rentuibang/avatar-06.avif',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '快手',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '北京快手科技有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: ''
