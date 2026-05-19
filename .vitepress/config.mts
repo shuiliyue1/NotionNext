@@ -1,4 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { getThemeSidebarItems } from '../scripts/lib/builtin-themes.mjs'
+
+const themeDocLinks = getThemeSidebarItems()
 
 const giscusEnabled = process.env.VITE_GISCUS_ENABLED !== 'false'
 const giscusRepoId = process.env.VITE_GISCUS_REPO_ID || ''
@@ -21,7 +24,7 @@ export default defineConfig({
   srcExclude,
   cleanUrls: true,
   lastUpdated: true,
-  ignoreDeadLinks: true,
+  ignoreDeadLinks: [/^https?:\/\//],
   head: [['link', { rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml' }]],
   themeConfig: {
     logo: '/favicon.svg',
@@ -67,6 +70,7 @@ export default defineConfig({
             { text: 'Vercel 静态导出', link: '/user-guide/deploy/vercel-static' },
             { text: 'Cloudflare 文档站', link: '/user-guide/deploy/cloudflare-pages-docs' },
             { text: 'Cloudflare 博客静态', link: '/user-guide/deploy/cloudflare-pages' },
+            { text: '构建性能调优', link: '/user-guide/deploy/build-tuning' },
             { text: 'Netlify', link: '/user-guide/deploy/netlify' },
             { text: 'VPS', link: '/user-guide/deploy/vps' }
           ]
@@ -86,13 +90,8 @@ export default defineConfig({
           items: [
             { text: '主题目录', link: '/user-guide/themes/' },
             { text: '全览表', link: '/user-guide/themes/THEMES_CATALOG' },
-            { text: 'Simple', link: '/user-guide/themes/simple' },
-            { text: 'Hexo', link: '/user-guide/themes/hexo' },
-            { text: 'Heo', link: '/user-guide/themes/heo' },
-            { text: 'Proxio', link: '/user-guide/themes/proxio' },
-            { text: 'GitBook', link: '/user-guide/themes/gitbook' },
-            { text: 'Claude', link: '/user-guide/themes/claude' },
-            { text: 'ThoughtLite', link: '/user-guide/themes/thoughtlite' }
+            { text: '主题总览', link: '/user-guide/themes/overview' },
+            ...themeDocLinks
           ]
         },
         {
@@ -115,6 +114,7 @@ export default defineConfig({
             { text: '反馈', link: '/user-guide/help/feedback' },
             { text: '旧版手册入口', link: '/user-guide/help/legacy-docs' },
             { text: 'Notion 排版示例', link: '/user-guide/notion/example-article' },
+            { text: '双语库翻译 CLI（可选）', link: '/user-guide/notion/bilingual-translator' },
             { text: '参与维护（在线站）', link: '/user-guide/maintain-docs' },
             { text: '维护工作流', link: '/user-guide/MAINTENANCE_WORKFLOW' },
             { text: '迁移索引', link: '/user-guide/ARTICLE_INDEX' }
